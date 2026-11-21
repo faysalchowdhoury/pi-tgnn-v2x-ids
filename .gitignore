@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.ipynb_checkpoints/
+*.egg-info/
+.venv/
+venv/
+env/
+.DS_Store
+# large external dataset (download separately -- see data_gen/veremi_loader.py)
+data/veremi/
+results/_zeroshot.log
